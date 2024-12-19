@@ -36,7 +36,3 @@ The XAML file defines the layout for the main window, including:
 *   Methods like `BackButton_Click`, `ForwardButton_Click`, `ReloadButton_Click`, and `GoButton_Click` control navigation and page reload.
 *   The `CoreWebView2_NewWindowRequested` event is used to prevent new windows from opening outside of the WebView2 instance, instead opening them within the same WebView2.
 
-### How to Extend:
-
-*   You can modify the `WebView2` instance to handle multiple tabs.
-*   Additional features like bookmarking, history management, or custom browser settings could be added.

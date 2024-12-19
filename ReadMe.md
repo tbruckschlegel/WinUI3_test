@@ -2,6 +2,10 @@ Summary
 -------
 
 This project demonstrates how to implement a simple web browser application using WinUI 3 and WebView2. The application features basic web navigation, including backward and forward navigation, page reload, and URL entry functionality. Additionally, the WebView2 control handles opening and displaying web pages within the application.
+This repository is just a personal test bed, i'm trying out some festures over the next months, like:
+ * privacy restrictions 
+ * tracking prevention
+ * GPU fun stuff
 
 ### Key Features:
 
